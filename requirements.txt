@@ -1,7 +1,8 @@
-streamlit==1.38.0
-numpy==1.26.4
-tensorflow-cpu==2.16.1
+﻿streamlit==1.38.0
+numpy==2.0.2
+tensorflow==2.21.0
 librosa==0.10.2
 scikit-learn==1.5.1
 matplotlib==3.9.0
 soundfile==0.12.1
+protobuf==5.28.2
